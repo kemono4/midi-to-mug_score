@@ -11,9 +11,10 @@ It supports parsing MIDI files and converting them into playable charts.
 - 📊 Score, combo, and accuracy calculation
 
 #### TBD
-- GUI for selecting song and hi-speed
+- Better GUI for selecting song, changing hi-speed, and more options
 - Save data to JSON for faster load and local record
 - Auto chord accompaniment (Best for Monophonic MIDI track)
+- Customizable key mapping and sounds
 
 ### Requirements
 - Python 3.8+
